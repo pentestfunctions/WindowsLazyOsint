@@ -1,7 +1,7 @@
 # WindowsLazyOsint
 
 <p align="center">
-  <img src="static/LOsint.png">
+  <img src="static/LOsint.PNG">
 </p>
 
 Domains listed here are used in the released applicaiton.
